@@ -163,7 +163,7 @@
         <flink.version>1.14.2</flink.version>
 
         <javax.servlet4.version>4.0.1</javax.servlet4.version>
-        <javax.servlet.version>3.0.1</javax.servlet.version>
+        <javax.servlet.version>3.1.0</javax.servlet.version>
 
 
         <asm.version>9.2</asm.version>
