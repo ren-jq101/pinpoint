@@ -139,7 +139,7 @@
         <plugin.jacoco.skip>true</plugin.jacoco.skip>
 
         <!-- library -->
-        <metrics.version>3.2.6</metrics.version>
+        <metrics.version>4.2.16</metrics.version>
 
         <fastxml.jackson.version>2.13.3</fastxml.jackson.version>
         <snakeyaml.version>1.27</snakeyaml.version>
