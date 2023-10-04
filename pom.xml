@@ -181,7 +181,7 @@
         <mybatis.spring.version>2.0.6</mybatis.spring.version>
         <mybatis.version>3.5.7</mybatis.version>
 
-        <jjwt.version>0.9.1</jjwt.version>
+        <jjwt.version>0.12.0</jjwt.version>
         <jaxb.version>2.3.3</jaxb.version>
 
         <zookeeper.version>3.4.14</zookeeper.version>
