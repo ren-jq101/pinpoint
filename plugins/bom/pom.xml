@@ -33,7 +33,7 @@
         <jedis.version>2.4.2</jedis.version>
         <lettuce.version>6.1.5.RELEASE</lettuce.version>
         <cassandra.driver.version>2.1.7.1</cassandra.driver.version>
-        <dubbo.version>2.5.3</dubbo.version>
+        <dubbo.version>2.6.1</dubbo.version>
         <mongo.driver.3.version>3.12.11</mongo.driver.3.version>
         <mongo.driver.4.version>4.6.1</mongo.driver.4.version>
         <apache.dubbo.version>2.7.2</apache.dubbo.version>
