@@ -141,7 +141,7 @@
         <!-- library -->
         <metrics.version>3.2.6</metrics.version>
 
-        <fastxml.jackson.version>2.13.3</fastxml.jackson.version>
+        <fastxml.jackson.version>2.15.0</fastxml.jackson.version>
         <snakeyaml.version>1.27</snakeyaml.version>
 
         <httpcomponents.version>4.5.13</httpcomponents.version>
